@@ -8,5 +8,9 @@
 #### https://fajox1.github.io/heta-docs
 
 <hr>
+</div>
+## Support
 
-### ✈️ <a href="https://t.me/famods">Канал</a> | <a href="https://t.me/FaModsChat">Чат</a> | <a href="https://t.me/fajox">Разработчик</a> 
+- <a href="https://t.me/heta_lib">Channel</a><br>
+- <a href="https://t.me/HetaLibChat">Chat</a><br>
+- <a href="https://t.me/fajox">Developer</a>
