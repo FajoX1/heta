@@ -2,7 +2,7 @@
 <i>Python library for works with hikka mods heta</i>
 
 ### ⬇️ Installation
-<pre><code>pip install https://github.com/FajoX/heta/archive/main.zip --force-reinstall</code></pre>
+<pre><code>pip install https://github.com/FajoX1/heta/archive/refs/heads/main.zip --force-reinstall</code></pre>
 
 ## 📁 Documention
 #### https://fajox1.github.io/heta-docs
