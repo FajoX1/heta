@@ -4,7 +4,7 @@
 ### ⬇️ Installation
 <pre><code>pip install https://github.com/FajoX1/heta/archive/refs/heads/main.zip --force-reinstall</code></pre>
 
-## 📁 Documention
+## 📁 Documentation
 #### https://fajox1.github.io/heta-docs
 
 <hr>
