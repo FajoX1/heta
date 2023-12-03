@@ -1,5 +1,6 @@
-<div align=center><h1>⛩ Heta</h1>
-<i>Python library for works with hikka mods heta</i>
+<div align=center>
+
+<img src="https://github.com/FajoX1/heta/raw/main/banner.png">
 
 ### ⬇️ Installation
 <pre><code>pip install https://github.com/FajoX1/heta/archive/refs/heads/main.zip --force-reinstall</code></pre>
