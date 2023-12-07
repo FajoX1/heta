@@ -3,7 +3,7 @@
 <img src="https://github.com/FajoX1/heta/raw/main/banner.png">
 
 ### ⬇️ Installation
-<pre><code>pip install https://github.com/FajoX1/heta/archive/refs/heads/main.zip --force-reinstall</code></pre>
+<pre><code>pip install heta</code></pre>
 
 ## 📁 Documentation
 #### https://fajox1.github.io/heta-docs
