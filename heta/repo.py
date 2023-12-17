@@ -7,5 +7,15 @@ class repo():
         if response.status_code != 200:
             return "no modules"
         modules = []
-        modules = [{"name": name} for name in response.text.split('\n') if name.strip()]
+        lines = response.text.split('\n')
+        for name in lines:
+            if name.strip():
+                link = f"{repo}/raw/main/{name}.py"
+                response = requests.get(link)
+                if response.status_code == 200:
+                      modules.append({"link": link, "name": name})
+
+        if not modules:
+            return "no modules"
+
         return modules
