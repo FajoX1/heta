@@ -6,7 +6,7 @@ with open("README.md") as f:
 
 setuptools.setup(
     name="heta",
-    version="1.0.0",
+    version="1.0.1",
     author="Fajox",
     author_email="pybytee@gmail.com",
     description=(
@@ -14,7 +14,7 @@ setuptools.setup(
     ),
     install_requires="requests",
     long_description=long_description,
-    long_description_content_type="text/html",
+    long_description_content_type="text/markdown",
     url="https://github.com/FajoX1/heta",
     packages=setuptools.find_packages(),
     license="MIT",
