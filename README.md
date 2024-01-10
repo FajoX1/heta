@@ -15,4 +15,4 @@
 
 - <a href="https://t.me/heta_lib">Channel</a><br>
 - <a href="https://t.me/HetaLibChat">Chat</a><br>
-- <a href="https://t.me/fajox">Developer</a>
+- <a href="https://t.me/vecax">Developer</a>
