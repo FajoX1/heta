@@ -6,7 +6,7 @@ with open("README.md") as f:
 
 setuptools.setup(
     name="heta",
-    version="1.0.1",
+    version="1.0.2",
     author="Fajox",
     author_email="pybytee@gmail.com",
     description=(
